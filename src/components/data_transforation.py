@@ -1,1 +1,0 @@
-# In this we will tranform the categorical data into numerical data
